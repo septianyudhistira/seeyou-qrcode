@@ -29,10 +29,15 @@ To get started with this project, follow these steps:
    ```bash
    git clone https://github.com/septianyudhistira/seeyou-qrcode.git
 
+## 📘 Documentation
+For detailed documentation, please refer to the official resources:
+
+[Nayuki](https://www.nayuki.io/page/qr-code-generator-library)
+
 ## 👥 Contributing
 Feel free to submit issues or pull requests for improvements and bug fixes.
 
-🎉 Special Thanks
+## 🎉 Special Thanks
 This project is inspired by the work of the following individual:
 
 @nayuki - For the amazing foundational work on [his/her/their] number utility library, which provided the core ideas and inspiration for this project.
