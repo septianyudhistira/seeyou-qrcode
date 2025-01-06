@@ -40,4 +40,4 @@ Feel free to submit issues or pull requests for improvements and bug fixes.
 ## 🎉 Special Thanks
 This project is inspired by the work of the following individual:
 
-@nayuki - For the amazing foundational work on [his/her/their] number utility library, which provided the core ideas and inspiration for this project.
+[@nayuki](https://github.com/nayuki) - For the amazing foundational work on [his/her/their] number utility library, which provided the core ideas and inspiration for this project.
